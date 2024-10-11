@@ -8,7 +8,7 @@ jobs:
       - uses: actions/checkout@v4
       
       - name: Trigger actions
-        uses: melvinsatheesan-pdfgenerator
+        uses: melvinsatheesan-pdfgenerator@v1.8
 
 
       - name: Run a multi-line script
