@@ -1,0 +1,5 @@
+name: 'PDF Testing Framework'
+on: workflow_dispatch
+runs:
+  using: 'node20'
+  main: 'customJs/main.js'
